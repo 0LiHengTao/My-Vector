@@ -1,0 +1,8 @@
+# ninja log v5
+11	1016	7139864288382897	CMakeFiles/CMake_MyVector.dir/src/CMake_MyVector.cpp.obj	9e3b9073eaecb498
+19	1008	7139864288435163	CMakeFiles/CMake_MyVector.dir/src/main.cpp.obj	f750f810115ac150
+67	598	7139868210649723	D:/VS编程/CMake_MyVector/bin/CMake_MyVector.exe	6a05cc4445ccd3e3
+3	1011	7139864288382897	CMakeFiles/calc.dir/src/CMake_MyVector.cpp.obj	5f88c8afb26d2019
+3	66	7139868207629525	D:/VS编程/CMake_MyVector/lib/calc.lib	8a42d6ee49a9cddf
+1011	1251	7139864291263249	calc.lib	9d4c7f28d0a7de2e
+3	165	7139868638934240	build.ninja	e6c15446fd49486e
